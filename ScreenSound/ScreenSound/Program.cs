@@ -1,17 +1,18 @@
 ﻿Musica primeiraMusica = new Musica();
 
-primeiraMusica.nome = "Mulher de Fases";
-primeiraMusica.artista = "Raimundos";
-primeiraMusica.duracao = 180;
-primeiraMusica.disponivel = true;
+primeiraMusica.Nome = "Mulher de Fases";
+primeiraMusica.Artista = "Raimundos";
+primeiraMusica.Duracao = 180;
+primeiraMusica.Disponivel = true;
 
+Console.WriteLine(primeiraMusica.ConjuntoArtistaNome);
 primeiraMusica.ExibirFichaTecnica();
 
 Musica segundaMusica = new Musica();
-segundaMusica.nome = "Disorder";
-segundaMusica.artista = "Joy Division";
-segundaMusica.duracao = 165;
-segundaMusica.disponivel = false;
+segundaMusica.Nome = "Disorder";
+segundaMusica.Artista = "Joy Division";
+segundaMusica.Duracao = 165;
+segundaMusica.Disponivel = false;
 
 segundaMusica.ExibirFichaTecnica();
 
