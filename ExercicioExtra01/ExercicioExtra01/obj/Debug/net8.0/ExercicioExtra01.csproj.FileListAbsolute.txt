@@ -1,0 +1,15 @@
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\bin\Debug\net8.0\ExercicioExtra01.exe
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\bin\Debug\net8.0\ExercicioExtra01.deps.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\bin\Debug\net8.0\ExercicioExtra01.runtimeconfig.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\bin\Debug\net8.0\ExercicioExtra01.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\bin\Debug\net8.0\ExercicioExtra01.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\ExercicioExtra01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\ExercicioExtra01.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\ExercicioExtra01.AssemblyInfo.cs
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\ExercicioExtra01.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\ExercicioExtra01.sourcelink.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\ExercicioExtra01.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\refint\ExercicioExtra01.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\ExercicioExtra01.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\ExercicioExtra01.genruntimeconfig.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\ref\ExercicioExtra01.dll
