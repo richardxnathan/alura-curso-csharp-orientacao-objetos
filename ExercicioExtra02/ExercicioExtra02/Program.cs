@@ -1,7 +1,8 @@
 ﻿Carro primeiroCarro = new Carro();  
 
-primeiroCarro.ano = 2023;
-primeiroCarro.modelo = "Model X";
+primeiroCarro.Ano = 2023;
+primeiroCarro.Modelo = "Model X";
+primeiroCarro.Fabricante = "Tesla";
 
 primeiroCarro.Acelerar();
 primeiroCarro.Acelerar();
