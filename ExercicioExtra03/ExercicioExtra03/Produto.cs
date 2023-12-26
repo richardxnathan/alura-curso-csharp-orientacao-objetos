@@ -16,18 +16,18 @@
             }
         }
     }
-    public int Estoque
+    public int Quantidade
     {
-        get => Estoque;
+        get => Quantidade;
         set
         {
-            if (Estoque > 0)
+            if (Quantidade > 0)
             {
-                Estoque = value;
+                Quantidade = value;
             }
             else
             {
-                Estoque = 0;
+                Quantidade = 0;
             }
         }
     }

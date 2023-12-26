@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\richa\\Desktop\\GIT\\alura-curso-csharp-orientacao-objetos\\ExercicioExtra03\\ExercicioExtra03\\ExercicioExtra03.csproj",
-      "projectName": "ExercicioExtra03",
-      "projectPath": "C:\\Users\\richa\\Desktop\\GIT\\alura-curso-csharp-orientacao-objetos\\ExercicioExtra03\\ExercicioExtra03\\ExercicioExtra03.csproj",
+      "projectUniqueName": "C:\\Users\\richa\\Desktop\\GIT\\alura-curso-csharp-orientacao-objetos\\ExercicioExtra03\\ExercicioExtra03\\ExercicioExtra03 - Estoque.csproj",
+      "projectName": "ExercicioExtra03 - Estoque",
+      "projectPath": "C:\\Users\\richa\\Desktop\\GIT\\alura-curso-csharp-orientacao-objetos\\ExercicioExtra03\\ExercicioExtra03\\ExercicioExtra03 - Estoque.csproj",
       "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\richa\\Desktop\\GIT\\alura-curso-csharp-orientacao-objetos\\ExercicioExtra03\\ExercicioExtra03\\obj\\",
       "projectStyle": "PackageReference",
