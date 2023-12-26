@@ -1,18 +1,19 @@
-﻿Musica primeiraMusica = new Musica();
+﻿Album albumJoyDivison = new Album();
 
-primeiraMusica.Nome = "Mulher de Fases";
-primeiraMusica.Artista = "Raimundos";
-primeiraMusica.Duracao = 180;
-primeiraMusica.Disponivel = true;
+albumJoyDivison.Nome = "Unknown Pleasures";
 
-Console.WriteLine(primeiraMusica.ConjuntoArtistaNome);
-primeiraMusica.ExibirFichaTecnica();
+
+Musica primeiraMusica = new Musica();
+
+primeiraMusica.Nome = "Disorder";
+primeiraMusica.Duracao = 212;
 
 Musica segundaMusica = new Musica();
-segundaMusica.Nome = "Disorder";
-segundaMusica.Artista = "Joy Division";
-segundaMusica.Duracao = 165;
-segundaMusica.Disponivel = false;
+segundaMusica.Duracao = 289;
 
-segundaMusica.ExibirFichaTecnica();
+segundaMusica.Nome = "Day Of The Lords";
 
+albumJoyDivison.AdicionarMusica(primeiraMusica);
+albumJoyDivison.AdicionarMusica(segundaMusica);
+
+albumJoyDivison.ExibirMusicasDoAlbum();
