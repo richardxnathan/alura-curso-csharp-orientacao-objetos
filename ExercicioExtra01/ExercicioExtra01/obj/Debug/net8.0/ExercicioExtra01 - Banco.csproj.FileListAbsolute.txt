@@ -1,0 +1,15 @@
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\bin\Debug\net8.0\ExercicioExtra01 - Banco.exe
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\bin\Debug\net8.0\ExercicioExtra01 - Banco.deps.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\bin\Debug\net8.0\ExercicioExtra01 - Banco.runtimeconfig.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\bin\Debug\net8.0\ExercicioExtra01 - Banco.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\bin\Debug\net8.0\ExercicioExtra01 - Banco.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\ExercicioExtra01 - Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\ExercicioExtra01 - Banco.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\ExercicioExtra01 - Banco.AssemblyInfo.cs
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\ExercicioExtra01 - Banco.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\ExercicioExtra01 - Banco.sourcelink.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\ExercicioExtra01 - Banco.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\refint\ExercicioExtra01 - Banco.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\ExercicioExtra01 - Banco.pdb
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\ExercicioExtra01 - Banco.genruntimeconfig.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos\ExercicioExtra01\ExercicioExtra01\obj\Debug\net8.0\ref\ExercicioExtra01 - Banco.dll
