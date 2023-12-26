@@ -1,19 +1,25 @@
-﻿Album albumJoyDivison = new Album();
+﻿Banda primeiraBanda = new Banda("Joy Division");
 
-albumJoyDivison.Nome = "Unknown Pleasures";
+Album albumJoyDivison = new Album("Unknown Pleasures");
+
+Musica primeiraMusica = new Musica(primeiraBanda, "Disorder")
+{
+    Duracao = 212,
+    Disponivel = true,
+};
 
 
-Musica primeiraMusica = new Musica();
+Musica segundaMusica = new Musica(primeiraBanda, "Day Of The Lords")
+{
+    Duracao = 289,
+    Disponivel = false,
+};
 
-primeiraMusica.Nome = "Disorder";
-primeiraMusica.Duracao = 212;
-
-Musica segundaMusica = new Musica();
-segundaMusica.Duracao = 289;
-
-segundaMusica.Nome = "Day Of The Lords";
 
 albumJoyDivison.AdicionarMusica(primeiraMusica);
 albumJoyDivison.AdicionarMusica(segundaMusica);
 
-albumJoyDivison.ExibirMusicasDoAlbum();
+primeiraMusica.ExibirFichaTecnica();
+segundaMusica.ExibirFichaTecnica();
+primeiraBanda.AdicionarAlbum(albumJoyDivison);
+primeiraBanda.MostrarDiscografia();
