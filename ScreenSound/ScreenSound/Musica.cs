@@ -1,17 +1,17 @@
 ﻿class Musica
 {
-    public Musica(Banda artista, string nome) 
-    {
-        Artista = artista;
-        Nome = nome;
-    }
-
     public string Nome { get; }
     public Banda Artista { get; }
     public int Duracao { get; set; }
     public bool Disponivel { get; set; }
     public string ConjuntoArtistaNome => $"{Artista} - {Nome}";
     public Genero Genero { get; set; }
+
+    public Musica(Banda artista, string nome)
+    {
+        Artista = artista;
+        Nome = nome;
+    }
 
     public void ExibirFichaTecnica()
     {

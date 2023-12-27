@@ -1,11 +1,12 @@
 ﻿class Banda
 {
-    public Banda(String nome) 
+    public string Nome { get; }
+    private List<Album> albums = [];
+
+    public Banda(String nome)
     {
         Nome = nome;
     }
-    public string Nome { get; }
-    private List<Album> albums = [];
 
     public void AdicionarAlbum(Album album)
     {

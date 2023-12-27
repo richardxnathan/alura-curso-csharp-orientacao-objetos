@@ -1,25 +1,5 @@
-﻿Banda primeiraBanda = new Banda("Joy Division");
+﻿Episodio primeiroEpisodio = new Episodio(1, "Falando com os Mortos", 150);
+primeiroEpisodio.AdicionarConvidados("Ian Curtis");
+primeiroEpisodio.AdicionarConvidados("Michael Jackson");
 
-Album albumJoyDivison = new Album("Unknown Pleasures");
-
-Musica primeiraMusica = new Musica(primeiraBanda, "Disorder")
-{
-    Duracao = 212,
-    Disponivel = true,
-};
-
-
-Musica segundaMusica = new Musica(primeiraBanda, "Day Of The Lords")
-{
-    Duracao = 289,
-    Disponivel = false,
-};
-
-
-albumJoyDivison.AdicionarMusica(primeiraMusica);
-albumJoyDivison.AdicionarMusica(segundaMusica);
-
-primeiraMusica.ExibirFichaTecnica();
-segundaMusica.ExibirFichaTecnica();
-primeiraBanda.AdicionarAlbum(albumJoyDivison);
-primeiraBanda.MostrarDiscografia();
+Console.WriteLine(primeiroEpisodio.Resumo);
